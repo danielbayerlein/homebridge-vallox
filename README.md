@@ -1,5 +1,7 @@
 # homebridge-vallox
 
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+
 [Vallox](https://www.vallox.com) plugin for [Homebridge](https://github.com/nfarina/homebridge)
 
 ## Example `config.json`
