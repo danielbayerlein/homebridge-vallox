@@ -2,6 +2,20 @@
 
 [Vallox](https://www.vallox.com) plugin for [Homebridge](https://github.com/nfarina/homebridge)
 
+## Example `config.json`
+
+```json
+{
+  "accessories": [
+    {
+      "accessory": "Vallox",
+      "ip": "192.168.178.33",
+      "port": 80
+    }
+  ]
+}
+```
+
 ## Contributing
 
 1. Fork it
