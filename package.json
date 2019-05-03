@@ -1,6 +1,6 @@
 {
   "name": "@danielbayerlein/homebridge-vallox",
-  "version": "0.1.0",
+  "version": "0.1.0-alpha.0",
   "description": "Vallox plugin for Homebridge",
   "main": "index.js",
   "scripts": {
